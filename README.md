@@ -38,11 +38,11 @@ For each module, I follow this process:
 
 ## Progress Tracking
 
-- [Date] Module 1 - [Brief description of topics covered]
-- [Date] Module 2 - [Brief description of topics covered]
-- [Date] Module 3 - [Brief description of topics covered]
-- [Date] Module 4 - [Brief description of topics covered]
-- [Date] Module 5 - [Brief description of topics covered]
+- [Date-Completed] Module 1 - [Brief description of topics covered]
+- [Date-Completed] Module 2 - [Brief description of topics covered]
+- [Date-Completed] Module 3 - [Brief description of topics covered]
+- [Date-Completed] Module 4 - [Brief description of topics covered]
+- [Date-Completed] Module 5 - [Brief description of topics covered]
 
 ## About
 
