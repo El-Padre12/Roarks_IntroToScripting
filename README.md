@@ -1,4 +1,4 @@
-# Roarks_IntroToScripting
+# Dr. Roark's Intro To Scripting
 
 This repository contains my work through Dr. Roark's Introduction to Scripting course materials using Python. I have been given early access to Dr. Roark's updated intro to scripting book and am working through each module systematically.
 
