@@ -6,4 +6,6 @@ July 15th -
 
     module 1 section 4 " Identity Operators and Membership Operators" the code example for is and is not operators is not shown. it is repeated.
 
-    
+July 17th -
+    Completed the labs for module one and I must say I miss doing Dr. Roarks labs. They offer simple problems to work on without giving the reader the answers.
+    The reading material covered everything needed to complete these labs, with a little extra info to start your own research into the Python Documentation.
