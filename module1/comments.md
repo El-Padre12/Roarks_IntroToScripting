@@ -4,7 +4,7 @@ July 15th -
     I particularily enjoyed the videos, I'm pretty sure its an ai voice but it actually sounds human therefore easy to watch.
     I also appreciated the fact that you can leave comments on the videos and speed it up to your needs.
 
-    module 1 section 4 " Identity Operators and Membership Operators" the code example for is and is not operators is not shown. it is repeated.
+module 1 section 4 "Identity Operators and Membership Operators" the code example for is and is not operators is not shown. it is repeated.
 
 July 17th -
     Completed the labs for module one and I must say I miss doing Dr. Roarks labs. They offer simple problems to work on without giving the reader the answers.
