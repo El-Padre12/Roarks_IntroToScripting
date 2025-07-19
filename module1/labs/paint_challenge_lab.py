@@ -1,8 +1,7 @@
 # Angel Chavez
 # Jul 19th, 2025
 # Python 3.13.5
-# CHALLENGE-LAB: paint project cost estimator based on size/area of project and cost of paint.
-# 
+# CHALLENGE-LAB: paint project cost estimator based on size/area of project, paint coverage per gallon and cost of paint.
 
 import math
 
