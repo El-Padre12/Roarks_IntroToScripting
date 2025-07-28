@@ -10,6 +10,7 @@ inventory = {
     'Linear Algebra': 3
 }
 
+# output current inventory to the screen
 print('Current Inventory\n')
 for item, quantity in inventory.items():
     print(f'- {item}: {quantity} in stock')
@@ -17,6 +18,8 @@ for item, quantity in inventory.items():
 while True:
     purchased = input('Enter the title of the book you would like to purchase(enter "q" to quit): ')
 
+    # updates inventory based of user input
+    # if its not it notifies the user with a warning and then keeps asking until user quits
     if purchased in inventory:
         print(f'\n"{purchased}" purchased successfully')
         inventory[purchased] -= 1
