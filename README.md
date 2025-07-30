@@ -38,9 +38,9 @@ For each module, I follow this process:
 
 ## Progress Tracking
 
-- [July 18th, 2025] Module 1 - [Brief description of topics covered]
-- [Date-Completed] Module 2 - [Brief description of topics covered]
-- [Date-Completed] Module 3 - [Brief description of topics covered]
+- July 18th, 2025 Module 1 - basics of programming in python & intro to labs
+- July 19th, 2025 Module 2 - loops and conditional & best practices
+- July 22nd, 2025 Module 3 - file and exception handling
 - [Date-Completed] Module 4 - [Brief description of topics covered]
 - [Date-Completed] Module 5 - [Brief description of topics covered]
 
