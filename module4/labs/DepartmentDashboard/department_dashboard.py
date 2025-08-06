@@ -9,6 +9,7 @@ import matplotlib.pyplot as plt
 # open file with context manager for best practices
 with open('module4/labs/DepartmentDashboard/departments.csv', 'r', encoding='utf-8') as file:
     df = pd.read_csv(file)
+    
     # adds color for each department bar respectfully
     colors = ['skyblue', 'salmon', 'lightgreen', 'gold', 'plum']
 
