@@ -41,7 +41,7 @@ For each module, I follow this process:
 - July 18th, 2025 Module 1 - basics of programming in python & intro to labs
 - July 19th, 2025 Module 2 - loops and conditional & best practices
 - July 22nd, 2025 Module 3 - file and exception handling
-- [Date-Completed] Module 4 - [Brief description of topics covered]
+- Aug   6th, 2025 Module 4 - OOP, Advanced ETL, and Libraries(Numpy, Pandas, Matplotlib)
 - [Date-Completed] Module 5 - [Brief description of topics covered]
 
 ## About

@@ -1,0 +1,4 @@
+Aug 7th -
+Last module I really enjoyed the libraries that were introduced, so much so that I was considering making them my niche.
+However I'm quickly realizing that I really like system automation using libraries like sys and os.
+Its so powerful and efficent, yet simple once you have some practice. Everyone should master system-automation with the built in & 3rd party modules. I will probably still niche in data-analysis with pandas,numpy, & matplotlib, but will also try and master these system automation libraries. There are so many possibilities, with practice, I could make accurate/useful visualizations of system utilization, user_data, meta_data, Cloud_data, etc.
