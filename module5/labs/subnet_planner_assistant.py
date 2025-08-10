@@ -10,10 +10,9 @@ import ipaddress
 def subnet_calculator(ip, mask):
     """
     calculates netaddr, broadcast addr, usable hosts, and first&last usable IP-addr
-
+    
     args: str: ip = ip address,
           str: mask = subnet mask (e.g.,24 or , 255.255.255.0)
-
     returns: dict: {
         "Network Address": str(network_address),
         "Broadcast Address": str(broadcast_address),
