@@ -25,6 +25,15 @@ Roarks_IntroToScripting/
 ├── Module5/
 │   ├── labs/
 │   └── comments
+├── Module6/
+│   ├── labs/
+│   └── comments
+├── Module7/
+│   ├── labs/
+│   └── comments
+├── Module8/
+│   ├── labs/
+│   └── comments
 └── README.md
 ```
 
@@ -42,7 +51,11 @@ For each module, I follow this process:
 - July 19th, 2025 Module 2 - loops and conditional & best practices
 - July 22nd, 2025 Module 3 - file and exception handling
 - Aug   6th, 2025 Module 4 - OOP, Advanced ETL, and Libraries(Numpy, Pandas, Matplotlib)
-- [Date-Completed] Module 5 - [Brief description of topics covered]
+- Aug   9th, 2025 Module 5 - Intro to automating the boring stuff with Python(os, sys, psutil, etc)
+- Aug  12th, 2025 Module 6 - Intro to web interaction with Python, Web-Scraping, making http requests and working with APIs(requests,
+                             BeautifulSoup, etc)
+- Aug    th, 2025 Module 7 - ...
+- Aug    th, 2025 Module 8 - ...
 
 ## About
 
